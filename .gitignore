@@ -1,0 +1,7 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Projeto ignore
+Netflix_SR_C1.ipynb
+Netflix_SR_C1_teste.ipynb
+dados/
