@@ -115,19 +115,16 @@ Imagem a ser disponibilizada
 
 
 ## 7. Resultado Final
-Obtivemos bons resultados no sistema de recomendação, o qual o CEO da empresa poderá oferecer acesso às recomendações de conteúdo por meio de um BOT pelo TELEGRAM.
+Obtivemos bons resultados no sistema de recomendação, o qual o CEO da empresa poderá oferecer acesso às recomendações de conteúdo por meio de um DashBoard pelo Streamlit.
 A performance do modelo pode ser constatada na análise da relação dos titulos assistidos e a descrição do conteúdo:
 
 Imagem da performance a se disponibilizada
 
-Dados dos valores de erro MAPE e MAE a ser disponibilizados
-
 
 ## - Conclusão
  
-O sistema de recomendacão content based (por contúdo) estão sendo projetadas com sucesso. Sendo assim, a usuária poderá consultar de qualquer lugar as recomendacões de filmes e seires, por meio do Bot do telegram, podendo escolher novos conteúdos por meio da análise e entendimento do gosto pessoal da usúaria da plataforma Netflix.
+O sistema de recomendacão content based (por conteúdo) estão sendo projetadas com sucesso. Sendo assim, a usuária poderá consultar de qualquer lugar as recomendações de filmes e series, por meio da Aplicação Web Streamlit, podendo escolher novos conteúdos por meio da análise e entendimento do gosto pessoal da usúaria da plataforma Netflix.
 
 
-**Como funciona o BOT:**
-**Para acessar os resultados do sistema de recomendacnao, basta acessar sua conta do telegram e enviar uma mensagem xxxxxx.**
-**Ex: xxxxx. [Clique aqui](xxxxxxxx) para fazer o teste - link ainda será disponibilizado**
+**Para acessar os resultados do sistema de recomendação, basta acessar o link: xxxxxx.**
+**P.S. link ainda será disponibilizado**
